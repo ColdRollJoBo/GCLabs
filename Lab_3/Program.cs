@@ -43,11 +43,6 @@ namespace Lab_3
 
             WriteLine($"Thank you for playing {userName} please come back soon.");
 
-
-
-
-
-
         }
     }
 }
